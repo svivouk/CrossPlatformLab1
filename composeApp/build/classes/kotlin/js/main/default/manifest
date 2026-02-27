@@ -1,0 +1,12 @@
+abi_version=2.3.0
+builtins_platform=JS
+compiler_version=2.3.0
+depends=kotlin org.jetbrains.compose.material3\:material3 org.jetbrains.compose.material\:material-ripple org.jetbrains.compose.foundation\:foundation org.jetbrains.compose.ui\:ui-tooling-preview org.jetbrains.androidx.lifecycle\:lifecycle-viewmodel-compose org.jetbrains.androidx.lifecycle\:lifecycle-runtime-compose org.jetbrains.compose.animation\:animation org.jetbrains.compose.foundation\:foundation-layout org.jetbrains.compose.ui\:ui org.jetbrains.compose.runtime\:runtime-saveable org.jetbrains.androidx.savedstate\:savedstate-compose org.jetbrains.compose.runtime\:runtime components.resources\:library androidx.compose.runtime\:runtime-saveable androidx.compose.runtime\:runtime-annotation androidx.compose.runtime\:runtime-retain org.jetbrains.androidx.lifecycle\:lifecycle-runtime org.jetbrains.androidx.lifecycle\:lifecycle-common org.jetbrains.androidx.lifecycle\:lifecycle-viewmodel-savedstate org.jetbrains.androidx.lifecycle\:lifecycle-viewmodel androidx.lifecycle\:lifecycle-runtime androidx.lifecycle\:lifecycle-viewmodel-savedstate androidx.lifecycle\:lifecycle-viewmodel androidx.lifecycle\:lifecycle-common androidx.lifecycle\:lifecycle-runtime-compose org.jetbrains.androidx.savedstate\:savedstate androidx.savedstate\:savedstate androidx.savedstate\:savedstate-compose androidx.compose.runtime\:runtime org.jetbrains.compose.ui\:ui-text org.jetbrains.compose.ui\:ui-graphics org.jetbrains.skiko\:skiko androidx.graphics\:graphics-shapes org.jetbrains.compose.ui\:ui-unit org.jetbrains.compose.ui\:ui-geometry org.jetbrains.compose.ui\:ui-util androidx.annotation\:annotation org.jetbrains.kotlinx\:kotlinx-serialization-core org.jetbrains.compose.animation\:animation-core org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlin\:kotlin-dom-api-compat org.jetbrains.kotlinx\:atomicfu
+ir_signature_versions=1,2
+jsOutputName=MyApplication-composeApp
+language_features=+AllowAnyAsAnActualTypeForExpectInterface +MultiPlatformProjects
+metadata_version=2.3.0
+serializedIrFileFingerprints=35fmdale2003n.2x6eega1p2kgd q5p7nt1ec86c.1c96lj6j9b2af 3mzwquqpimkxd.vmhz0oz4tgyc 20t1wavi2bxly.x0bwhwql4jxi 29ktw6j2p9wc.1szcznxhn1d2u 2vkq11qoagb85.xca7oxdoeub4 3xnbqepln5p7.3i8p9jl25u5k7 jaky9ig4pfhs.1fu53udvmgqq7 22zeg8vw3gewq.1qw3g68xwhixw
+serializedKlibFingerprint=2gl2sqn0eovz5.2bo6387jpr11v
+unique_name=MyApplication\:composeApp
+wasm_targets=wasm-js
