@@ -1,4 +1,4 @@
-#Wed Feb 25 13:47:15 EET 2026
+#Sat Mar 07 22:45:53 EET 2026
 base.0=C\:\\Users\\krnkr\\AndroidStudioProjects\\MyApplication\\composeApp\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\krnkr\\AndroidStudioProjects\\MyApplication\\composeApp\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\krnkr\\AndroidStudioProjects\\MyApplication\\composeApp\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
