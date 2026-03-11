@@ -15,10 +15,8 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import org.jetbrains.compose.resources.painterResource
-
 import myapplication.composeapp.generated.resources.Res
 import myapplication.composeapp.generated.resources.compose_multiplatform
-import co.touchlab.kermit.Logger
 @Composable
 @Preview
 fun App() {
@@ -33,7 +31,6 @@ fun App() {
         ) {
             Button(onClick = {
                 showContent = !showContent
-                Logger.i { "Logger test." }
             }) {
                 Text("Click me!")
             }
