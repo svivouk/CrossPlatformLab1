@@ -21,7 +21,6 @@
     <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Hudula isibambi"</string>
     <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Nweba ishidi eliphansi"</string>
     <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Ishidi Eliphansi"</string>
-    <string msgid="3990875819916144919" name="m3c_button_group_more_options">"Okunye ongakukhetha"</string>
     <string msgid="8166741421776570875" name="m3c_date_input_headline">"Usuku olufakiwe"</string>
     <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Usuku olufakiwe: %1$s"</string>
     <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"Usuku alufani nephethini elindelekile: %1$s"</string>
@@ -59,7 +58,6 @@
     <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Guqula imenyu yokwehlayo"</string>
     <string msgid="6072492480528318635" name="m3c_floating_toolbar_collapse">"Goqa ibha yamathuluzi"</string>
     <string msgid="6880757017246780255" name="m3c_floating_toolbar_expand">"Nweba ibha yamathuluzi"</string>
-    <string msgid="5546418917311349543" name="m3c_floating_toolbar_more_options">"Okungakhethwa kukho okuningi"</string>
     <string msgid="6152806324422087846" name="m3c_search_bar_search">"Sesha"</string>
     <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Chitha"</string>
     <string msgid="3868801555855510515" name="m3c_snackbar_pane_title">"Isexwayiso"</string>
@@ -78,8 +76,8 @@
     <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"ngemizuzu"</string>
     <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Khetha u-AM noma u-PM"</string>
     <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
-    <string msgid="4323189593686596153" name="m3c_time_picker_toggle_keyboard">"Shintshela kumodi yokufaka umbhalo"</string>
-    <string msgid="1380272826693645088" name="m3c_time_picker_toggle_touch">"Shintshela kumodi yewashi"</string>
+    <string msgid="4145073906612931838" name="m3c_time_picker_toggle_keyboard">"Shintshela kumodi yokufaka umbhalo ukuze ufake isikhathi"</string>
+    <string msgid="8841786098195101324" name="m3c_time_picker_toggle_touch">"Shintshela kumodi yewashi ukuze ufake isikhathi"</string>
     <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Bonisa ithulithiphu"</string>
     <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Ithulithiphu"</string>
     <string msgid="6564222473543418073" name="m3c_wide_navigation_rail_close_rail">"Vala ikhalamu lezikhangiso"</string>

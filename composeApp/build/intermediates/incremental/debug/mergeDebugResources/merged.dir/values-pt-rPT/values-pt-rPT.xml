@@ -21,7 +21,6 @@
     <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"Indicador para arrastar"</string>
     <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"Expanda a secção inferior"</string>
     <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"Secção inferior"</string>
-    <string msgid="3990875819916144919" name="m3c_button_group_more_options">"Mais opções"</string>
     <string msgid="8166741421776570875" name="m3c_date_input_headline">"Data introduzida"</string>
     <string msgid="229313757840775812" name="m3c_date_input_headline_description">"Data introduzida: %1$s"</string>
     <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"A data não corresponde ao padrão esperado: %1$s"</string>
@@ -59,7 +58,6 @@
     <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"Ativar/desativar menu pendente"</string>
     <string msgid="6072492480528318635" name="m3c_floating_toolbar_collapse">"Reduzir barra de ferramentas"</string>
     <string msgid="6880757017246780255" name="m3c_floating_toolbar_expand">"Expandir barra de ferramentas"</string>
-    <string msgid="5546418917311349543" name="m3c_floating_toolbar_more_options">"Mais opções"</string>
     <string msgid="6152806324422087846" name="m3c_search_bar_search">"Pesquisar"</string>
     <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"Ignorar"</string>
     <string msgid="3868801555855510515" name="m3c_snackbar_pane_title">"Alerta"</string>
@@ -78,8 +76,8 @@
     <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"para minutos"</string>
     <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"Selecione AM ou PM"</string>
     <string msgid="6616362054113087709" name="m3c_time_picker_pm">"PM"</string>
-    <string msgid="4323189593686596153" name="m3c_time_picker_toggle_keyboard">"Mudar para o método de introdução de texto"</string>
-    <string msgid="1380272826693645088" name="m3c_time_picker_toggle_touch">"Mudar para o modo de relógio"</string>
+    <string msgid="4145073906612931838" name="m3c_time_picker_toggle_keyboard">"Mude para o método de introdução de texto para a introdução da hora"</string>
+    <string msgid="8841786098195101324" name="m3c_time_picker_toggle_touch">"Mude para o modo de relógio para a introdução da hora"</string>
     <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"Mostrar sugestão"</string>
     <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"Sugestão"</string>
     <string msgid="6564222473543418073" name="m3c_wide_navigation_rail_close_rail">"Fechar barra"</string>

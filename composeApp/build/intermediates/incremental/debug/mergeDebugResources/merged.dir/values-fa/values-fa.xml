@@ -21,12 +21,11 @@
     <string msgid="8403354765404029791" name="m3c_bottom_sheet_drag_handle_description">"دستگیره کشاندن"</string>
     <string msgid="6670819569745899763" name="m3c_bottom_sheet_expand_description">"ازهم باز کردن برگ زیرین"</string>
     <string msgid="3010635850035863127" name="m3c_bottom_sheet_pane_title">"برگ زیرین"</string>
-    <string msgid="3990875819916144919" name="m3c_button_group_more_options">"گزینه‌های بیشتر"</string>
     <string msgid="8166741421776570875" name="m3c_date_input_headline">"تاریخ واردشده"</string>
     <string msgid="229313757840775812" name="m3c_date_input_headline_description">"‏تاریخ واردشده: %1$s"</string>
     <string msgid="6116910750161463197" name="m3c_date_input_invalid_for_pattern">"‏تاریخ با الگوی موردانتظار مطابقت ندارد: %1$s"</string>
     <string msgid="2521768508935305279" name="m3c_date_input_invalid_not_allowed">"‏تاریخ مجاز نیست: %1$s"</string>
-    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"‏تاریخ خارج از محدوده سال %1$s تا %2$s است"</string>
+    <string msgid="7052898923934555305" name="m3c_date_input_invalid_year_range">"‏تاریخ خارج از بازه زمانی %1$s تا %2$s است"</string>
     <string msgid="2895559812010326913" name="m3c_date_input_label">"تاریخ"</string>
     <string msgid="1237013946323089826" name="m3c_date_input_no_input_description">"هیچ‌کدام"</string>
     <string msgid="7306227249789210568" name="m3c_date_input_title">"انتخاب تاریخ"</string>
@@ -59,7 +58,6 @@
     <string msgid="8687821690726149911" name="m3c_dropdown_menu_toggle">"جمع کردن/ ازهم باز کردن منوِ کرکره‌ای"</string>
     <string msgid="6072492480528318635" name="m3c_floating_toolbar_collapse">"جمع کردن نوارابزار"</string>
     <string msgid="6880757017246780255" name="m3c_floating_toolbar_expand">"ازهم بازکردن نوارابزار"</string>
-    <string msgid="5546418917311349543" name="m3c_floating_toolbar_more_options">"گزینه‌های بیشتر"</string>
     <string msgid="6152806324422087846" name="m3c_search_bar_search">"جستجو"</string>
     <string msgid="6152755701819882931" name="m3c_snackbar_dismiss">"بستن"</string>
     <string msgid="3868801555855510515" name="m3c_snackbar_pane_title">"هشدار"</string>
@@ -78,8 +76,8 @@
     <string msgid="7661234488295443182" name="m3c_time_picker_minute_text_field">"برای دقیقه"</string>
     <string msgid="5865171949528594571" name="m3c_time_picker_period_toggle_description">"انتخاب ق.ظ. یا ب.ظ."</string>
     <string msgid="6616362054113087709" name="m3c_time_picker_pm">"ب.ظ."</string>
-    <string msgid="4323189593686596153" name="m3c_time_picker_toggle_keyboard">"رفتن به حالت ورودی نوشتاری"</string>
-    <string msgid="1380272826693645088" name="m3c_time_picker_toggle_touch">"رفتن به حالت ساعت"</string>
+    <string msgid="4145073906612931838" name="m3c_time_picker_toggle_keyboard">"برای ورودی زمان، به حالت ورودی نوشتاری بروید"</string>
+    <string msgid="8841786098195101324" name="m3c_time_picker_toggle_touch">"برای ورودی زمان، به حالت ساعت بروید"</string>
     <string msgid="1805687647081129904" name="m3c_tooltip_long_press_label">"نمایش نکته‌ابزار"</string>
     <string msgid="5460405025248574620" name="m3c_tooltip_pane_description">"نکته‌ابزار"</string>
     <string msgid="6564222473543418073" name="m3c_wide_navigation_rail_close_rail">"بستن ریل"</string>
